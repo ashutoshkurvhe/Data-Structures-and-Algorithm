@@ -7,24 +7,6 @@
 // *****
 
 
-//Wrong way hard coded i === totalRows - 2
-// let totalRows = 5;
-// for (let i = 1; i <= totalRows; i++){
-//     let rows = "";
-//     for (let j = 1; j <= totalRows; j++){
-//         if (i === 1 || i === totalRows || i === totalRows - 2 || j === 1 || j === totalRows) {
-//             rows += "*";
-//         } else {
-//             rows += " "
-//         }
-
-//     }
-//     console.log(rows)
-// }
-
-
-//Correct way formula Based
-
 let totalRows = 5;
 
 for (let i = 1; i <= totalRows; i++) {
@@ -45,3 +27,24 @@ for (let i = 1; i <= totalRows; i++) {
   }
   console.log(row);
 }
+
+
+
+
+
+//Wrong way hard coded i === totalRows - 2
+// let totalRows = 5;
+// for (let i = 1; i <= totalRows; i++){
+//     let rows = "";
+//     for (let j = 1; j <= totalRows; j++){
+//         if (i === 1 || i === totalRows || i === totalRows - 2 || j === 1 || j === totalRows) {
+//             rows += "*";
+//         } else {
+//             rows += " "
+//         }
+
+//     }
+//     console.log(rows)
+// }
+
+
