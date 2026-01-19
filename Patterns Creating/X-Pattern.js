@@ -10,7 +10,6 @@
 
 let totalRows = 3;
 
-
 for (let i = totalRows; i >= 1; i--) {
   let rows = "";
   for (let j = totalRows - i; j >= 1; j--) {
