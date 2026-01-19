@@ -11,7 +11,8 @@
 
 
 
-totalRows = 4;
+let totalRows = 4;
+
 for (let i = totalRows; i >= 1; i--){
     let rows = "";
 
