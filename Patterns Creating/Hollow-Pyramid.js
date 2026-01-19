@@ -7,6 +7,7 @@
 // *********
 
 let totalRows = 5;
+
 for (let i = 1; i <= totalRows; i++){
     let rows = "";
     for (let j = 1; j <= totalRows - i; j++){
