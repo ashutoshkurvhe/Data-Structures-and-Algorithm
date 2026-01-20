@@ -8,7 +8,6 @@ for (let i = 4; i >= 1; i--) {
   console.log(row);
 }
 
-
 // Output;
 
 // 1234;
