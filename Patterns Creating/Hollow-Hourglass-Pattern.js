@@ -1,15 +1,4 @@
-//Expected Pattern
-
-
-// *******
-//  *   *
-//   * *
-//    *
-//   * *
-//  *   *
-// *******
-
-
+// Hollow Hourglass Pattern
 
 let totalRows = 4;
 
@@ -48,3 +37,14 @@ for (let i = 2; i <= totalRows; i++){
 
     console.log(rows);
 }
+
+//Expected Pattern
+
+
+// *******
+//  *   *
+//   * *
+//    *
+//   * *
+//  *   *
+// *******
