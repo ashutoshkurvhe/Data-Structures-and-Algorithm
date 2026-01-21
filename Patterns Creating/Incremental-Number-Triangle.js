@@ -1,9 +1,4 @@
-// Expected Output
-
-// 1
-// 2 3
-// 4 5 6
-// 7 8 9 10
+// Incremental Number Triangle Pattern
 
 let count = 1;
 
@@ -16,3 +11,11 @@ for (let i = 1; i <= 4; i++){
     console.log(row.trim());
 }
 
+
+
+// Expected Output
+
+// 1
+// 2 3
+// 4 5 6
+// 7 8 9 10
