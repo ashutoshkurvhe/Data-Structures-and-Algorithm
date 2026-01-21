@@ -1,11 +1,4 @@
-// Expected Output
-
-// 1;
-// 12;
-// 123;
-// 1234;
-
-
+// Left Aligned Number Triangle Pattern
 
 
 for (let i = 1; i <= 4; i++){
@@ -22,3 +15,12 @@ for (let i = 1; i <= 4; i++){
 // i = 2 j = 1 to 2 => 12
 // i = 3 j = 1 to 3 => 123
 // i = 4 j = 1 to 4 => 1234
+
+
+
+// Expected Output
+
+// 1;
+// 12;
+// 123;
+// 1234;
