@@ -1,10 +1,4 @@
-//Expected Pattern
-
-//     *
-//    * *
-//   *   *
-//  *     *
-// *********
+// Hollow Pyramid Pattern
 
 let totalRows = 5;
 
@@ -23,3 +17,13 @@ for (let i = 1; i <= totalRows; i++){
     }
     console.log(rows)
 }
+
+
+
+//Expected Pattern
+
+//     *
+//    * *
+//   *   *
+//  *     *
+// *********
