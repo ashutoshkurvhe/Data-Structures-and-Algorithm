@@ -1,9 +1,4 @@
-//Expected Pattern
-
-// ****
-// *  *
-// *  *
-// ****
+// Hollow Square Pattern
 
 
 let totalRows = 4;
@@ -19,3 +14,12 @@ for (let i = 1; i <= totalRows; i++){
     }
     console.log(rows);
 }
+
+
+
+//Expected Pattern
+
+// ****
+// *  *
+// *  *
+// ****
