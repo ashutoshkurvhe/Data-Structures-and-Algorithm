@@ -1,9 +1,4 @@
-// Expected Pattern
-
-//      1;
-//     121;
-//    12321;
-//   1234321;
+// Number Pyramid Centered Pattern
 
 
 let totalRows = 4;
@@ -23,3 +18,12 @@ for (let i = 1; i <= totalRows; i++){
     }
     console.log(rows)
 }
+
+
+
+// Expected Pattern
+
+//      1;
+//     121;
+//    12321;
+//   1234321;
