@@ -1,12 +1,4 @@
-// Expected Pattern
-
-// *
-// **
-// ***
-// ****
-// ***
-// **
-// *
+// Mirror Triangle Pattern
 
 //loop one for upper part
 let totalRows = 4;
@@ -29,3 +21,13 @@ for (let i = totalRows - 1; i >= 1; i--){
 }
 
 
+
+// Expected Pattern
+
+// *
+// **
+// ***
+// ****
+// ***
+// **
+// *
