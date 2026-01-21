@@ -1,13 +1,4 @@
-//Expected Pattern
-
-
-//    1
-//   1 1
-//  1   1
-// 1     1
-//  1   1
-//   1 1
-//    1
+// Hollow Numeric Diamond Pattern
 
 
 let totalRows = 4;
@@ -43,3 +34,16 @@ for (let i = totalRows - 1; i >= 1; i--) {
   }
   console.log(rows);
 }
+
+
+
+//Expected Pattern
+
+
+//    1
+//   1 1
+//  1   1
+// 1     1
+//  1   1
+//   1 1
+//    1
