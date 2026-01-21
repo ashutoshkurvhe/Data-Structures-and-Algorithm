@@ -1,9 +1,4 @@
-// Eexpected Output
-
-//    *
-//   * *
-//  *   *
-// *******
+// Hollow Full Pyramid Pattern
 
 let totalRows = 4;
 
@@ -31,3 +26,11 @@ for (let i = 1; i <= totalRows; i++) {
 
   console.log(row);
 }
+
+
+// Eexpected Output
+
+//    *
+//   * *
+//  *   *
+// *******
