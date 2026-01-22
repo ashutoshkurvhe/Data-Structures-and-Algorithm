@@ -1,9 +1,4 @@
-// Expected Output
-
-// 1;
-// 22;
-// 333;
-// 4444;
+// Number Repetition Pattern
 
 for (let i = 1; i <= 4; i++) {
   let row = "";
@@ -12,6 +7,15 @@ for (let i = 1; i <= 4; i++) {
   }
   console.log(row);
 }
+
+
+
+// Expected Output
+
+// 1;
+// 22;
+// 333;
+// 4444;
 
 // i = 1; j = 1;
 
