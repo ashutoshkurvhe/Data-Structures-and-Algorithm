@@ -1,9 +1,4 @@
-//Expected Patterns
-
-//    1
-//   1 1
-//  1   1
-// 1111111
+// Number Pyramid Pattern
 
 let totalRows = 4;
 
@@ -24,3 +19,12 @@ for (let i = 1; i <= totalRows; i++){
 
     console.log(rows);
 }
+
+
+
+//Expected Patterns
+
+//    1
+//   1 1
+//  1   1
+// 1111111
