@@ -1,10 +1,4 @@
-//Expected Pattern
-
-//   *
-//   *
-// *****
-//   *
-//   *
+// Plus Star Pattern
 
 
 let totalRows = 5;
@@ -21,3 +15,11 @@ for (let i = 1; i <= totalRows; i++){
     }
     console.log(rows);
 }
+
+//Expected Pattern
+
+
+//    1;
+//   121;
+//  12321;
+// 1234321;
