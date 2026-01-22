@@ -1,13 +1,4 @@
-//Expected Pattern
-
-// 1234321;
-//  12321;
-//   121;
-//    1;
-//   121;
-//  12321;
-// 1234321;
-
+// Numeric Diamond Pattern
 
 let totalRows = 4;
 for (let i = totalRows; i >= 1; i--){
@@ -41,3 +32,14 @@ for (let i = 2; i <= totalRows; i++){
     }
     console.log(rows);
 }
+
+
+//Expected Pattern
+
+// 1234321;
+//  12321;
+//   121;
+//    1;
+//   121;
+//  12321;
+// 1234321;
